@@ -18,6 +18,8 @@
 - Learning new things
 - Lawn Tennis
 - Exploring new tech gadgets
+- Calisthenics
+  
 
 ### Current Learning Goals:
 
