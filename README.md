@@ -1,4 +1,4 @@
-### I am interested in Flutter for development, i am too old to REACT!
+### I am interested in Flutter for development!
 
 - 🔭 Right now, my focus is all about the Flutter Framework, i feel it's currently taking the world by storm, and with the ability to ship code faster on multiple platforms. Sounds much better to me than React native.
 - 🌱 Currently, I'm immersing myself in the realms of DDD & TDD to master Clean Architecture techniques tailored for Flutter.
